@@ -1,0 +1,8 @@
+Was ich sehe schreib ich grad auf find / | grep "TODO.txt"  | less
+
+
+TRACE THE SOURCE OF ROBOTING, DIALOG.
+
+Trace the root of "desnaturalisierung" solve, can be solved.
+
+
