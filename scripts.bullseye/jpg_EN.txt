@@ -1,1 +1,3 @@
-../png/EN/m76.png
+../png/EN/t42b.png
+../png/EN/m156.png
+../png/EN/t42.png
