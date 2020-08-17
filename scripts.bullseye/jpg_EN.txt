@@ -1,3 +1,4 @@
 ../png/EN/t42b.png
+../png/EN/cpu2.png
 ../png/EN/m156.png
 ../png/EN/t42.png
