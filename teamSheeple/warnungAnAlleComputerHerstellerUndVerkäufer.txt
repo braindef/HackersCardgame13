@@ -13,7 +13,7 @@ Seit ca 12 Stunden wird auf meine THS (bzw. meinem prä-2020-Neuralink) geloopt,
 3. Carrier Grade
 4. Consumer Grade
 
-Die Produkte von z.B. Acer sind somit schon auch irgendwie nicht ganz kosher, aber das eigentliche Problem ist weiter oben im System. Vieles kann man mit ein bisschen Geschick umgehen. z.B. sagt der Jüdische Informatik Professor und technischer Begleiter der Snowden Leaks Jacob Applebaum [14] "They repurpose your WiFi gear", das heisst, dass die meisten PCIe WiFi NetzwerkKarten so einen closed source Firmware BLOB (Binary Large OBject) haben und da das Ding am PCI Bus hängt, hat es dann mehr oder weniger Zugriff auf die halbe Hardware des Computers. Dies auch wenn kein Treiber geladen ist. Da kann man sein Betriebssystem duzende Male neu installieren dennoch ist der Computer nicht sicher. Was man aber mit vergleichsweise klienem Aufwand tun kann, ist einfach die WiFi Karte raus zu nehmen. Dann ist aber gemäss Jake das "Spiel" nicht fertig: "they want to be able to spy on you, and if they have 10 different options for spying on you that you know about, they have 13 ways of doing it and they do all 13", sprich kam da bei mir das Problem, dass scheinbar die Tastatur [15,16,17] über ein Remote Interface verfügt, das kann theoretisch etwas das am i²c-Bus hängt sein [18]
+Die Produkte von z.B. Acer sind somit schon auch irgendwie nicht ganz kosher, aber das eigentliche Problem ist weiter oben im System. Vieles kann man mit ein bisschen Geschick umgehen. z.B. sagt der Jüdische Informatik Professor und technischer Begleiter der Snowden Leaks Jacob Applebaum [14] "They repurpose your WiFi gear", das heisst, dass die meisten PCIe WiFi NetzwerkKarten so einen closed source Firmware BLOB (Binary Large OBject) haben und da das Ding am PCI Bus hängt, hat es dann mehr oder weniger Zugriff auf die halbe Hardware des Computers. Dies auch wenn kein Treiber geladen ist. Da kann man sein Betriebssystem duzende Male neu installieren dennoch ist der Computer nicht sicher. Was man aber mit vergleichsweise klienem Aufwand tun kann, ist einfach die WiFi Karte raus zu nehmen. Dann ist aber gemäss Jake das "Spiel" nicht fertig: "they want to be able to spy on you, and if they have 10 different options for spying on you that you know about, they have 13 ways of doing it and they do all 13", sprich kam da bei mir das Problem, dass scheinbar die Tastatur [15,16,17] über ein Remote Interface verfügt, das kann theoretisch etwas das am i²c-Bus hängt sein [18] z.B. ein 30 Jahre moderneres AX.25 [19 up to 8 miles, paranoja] sein, oder allenfalls auch eine TEMPEST Attack, bzw TEMPEST wäre nur um mitzuhören, da wäre es wie INVERSE-TEMPEST (ich sag dem so, da es das ungefähr beschreibt) und dieses Ding müsste dann aber eine relativ hohe Sendeleistung haben [20 jake 1kw] 
 
 brack reverese forward contacting
 pfisterer & urs
@@ -68,7 +68,13 @@ t1 karte abstreiten, rotoer spiegel, buddhismus
 [16] Autistmus
 [17] psychologie skills
 
-[18]  jake quote
+[18]  i²c jake quote <- HONEPOT, += OBSERVER PATTERN 
+
+[19] jake quote "up to 8 miles" would induce paranoja += Team Sheeple SELELCTOR
+
+[20] jake quote "1kw" + "is save" + "cancer", ebd. would induce paranoja += team Sheeple SELECTOR
+
+
 
 in alu gepackt, dnenoch spinalis implantat fäuste an kopf ohne dass ihc autsitenhelm an hattte
 
