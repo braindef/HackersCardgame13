@@ -13,10 +13,34 @@ Seit ca 12 Stunden wird auf meine THS (bzw. meinem prä-2020-Neuralink) geloopt,
 3. Carrier Grade
 4. Consumer Grade
 
-Die Produkte von z.B. Acer sind somit schon auch irgendwie nicht ganz kosher, aber das eigentliche Problem ist weiter oben im System. Vieles kann man mit ein bisschen Geschick umgehen. z.B. sagt der Jüdische Informatik Professor und technischer Begleiter der Snowden Leaks Jacob Applebaum [14] "They repurpose your WiFi gear", das heisst, dass die meisten PCIe WiFi NetzwerkKarten so einen closed source Firmware BLOB (Binary Large OBject) haben und da das Ding am PCI Bus hängt, hat es dann mehr oder weniger Zugriff auf die halbe Hardware des Computers. Dies auch wenn kein Treiber geladen ist. Da kann man sein Betriebssystem duzende Male neu installieren dennoch ist der Computer nicht sicher. Was man aber mit vergleichsweise klienem Aufwand tun kann, ist einfach die WiFi Karte raus zu nehmen. Dann ist aber gemäss Jake das "Spiel" nicht fertig: "they want to be able to spy on you, and if they have 10 different options for spying on you that you know about, they have 13 ways of doing it and they do all 13", sprich kam da bei mir das Problem, dass scheinbar die Tastatur [15,16,17] über ein Remote Interface verfügt, das kann theoretisch etwas das am i²c-Bus hängt sein [18] z.B. ein 30 Jahre moderneres AX.25 [19] sein, oder allenfalls auch eine TEMPEST Attack, bzw TEMPEST wäre nur um mitzuhören, da wäre es wie INVERSE-TEMPEST (ich sag dem so, da es das ungefähr beschreibt) und dieses Ding müsste dann aber eine relativ hohe Sendeleistung haben [20] in Wikipedia unter "Tempest (Codename)" bei den Quellen findet man einen Link der ETH / EPFL von vor 10 Jahren, dem Prove of Concept. Das ist heute so ein "bisschen" weiter. Das konnte ich umgehen mit dem Opensource Projekt PAM_USB, sprich MultiFactor Authentication ohne überteuerten bonzigen Yubi Key, sondern mit einem gewöhnlichen USB Stick. Dann können die zwar auf der Tastatur das Passwort mitlesen, sie können es dann auch eingeben wenn man grad z.B. einen Kaffe machen geht, aber ist der Stick nicht eingesteckt, verhindert lib_pam (Plugable Authentication Module) das einloggen. Das war stand 2015, danach hat "irgendjemand" das Projekt sterben lassen und es funktionierte nicht mehr auf neueren Distributionen und es ist auch zu den meisten Linux Distributionen rausgeflogen wie z.B. aus Debian (Stretch, Buster, Bullseye). Ich hab dann auch gesehen, dass viele Leute das ge"forkt" haben und aber keiner es geschafft hat das Ding wieder zum laufen zu kriegen. Bei mir wurde aber immer wenn ich den Source-Code reparieren wollte relativ viel Psychologische Kriegsführung aktiviert, z.B über Social-Media, über Vertreter Anrufe (diese Telefonzentralen für "blablabla möchten sie die Krankenkasse wechseln" geben jeweils die Nummer der Zielperson automatisch vor), oder irgend ein Nachbar der dann grad sofort hilfe am Computer braucht etc... ich hab's dann aber doch geschafft das wieder zum laufen zu kriegen und verwende das jetzt auf Debain Buster: https://github.com/braindef/pam_usb/
+Die Produkte von z.B. Acer sind somit schon auch irgendwie nicht ganz kosher, aber das eigentliche Problem ist weiter oben im System. Vieles kann man mit ein bisschen Geschick umgehen. z.B. sagt der Jüdische Informatik Professor und technischer Begleiter der Snowden Leaks Jacob Applebaum [14] "They repurpose your WiFi gear", das heisst, dass die meisten PCIe WiFi NetzwerkKarten so einen closed source Firmware BLOB (Binary Large OBject) haben und da das Ding am PCI Bus hängt, hat es dann mehr oder weniger Zugriff auf die halbe Hardware des Computers. Dies auch wenn kein Treiber geladen ist.
 
-brack reverese forward contacting
-pfisterer & urs
+Da kann man sein Betriebssystem duzende Male neu installieren dennoch ist der Computer nicht sicher. Was man aber mit vergleichsweise klienem Aufwand tun kann, ist einfach die WiFi Karte raus zu nehmen.
+
+Dann ist aber gemäss Jake das "Spiel" nicht fertig: "they want to be able to spy on you, and if they have 10 different options for spying on you that you know about, they have 13 ways of doing it and they do all 13", sprich kam da bei mir das Problem, dass scheinbar die Tastatur [15,16,17] über ein Remote Interface verfügt, das kann theoretisch etwas sein, das am i²c-Bus hängt [18], oft hängen Touchpad und Tastatur am i²c-Bus bei Laptops aber nicht immer. Da wäre dann etwas wie ein 30 Jahre moderneres AX.25 [19].
+
+Allenfalls ist es auch etwas wie eine TEMPEST Attack, bzw TEMPEST wäre nur um mitzuhören, da wäre es wie INVERSE-TEMPEST (ich sag dem so, da es das ungefähr beschreibt) und dieses Ding müsste dann aber eine relativ hohe Sendeleistung haben [20]. In Wikipedia unter "Tempest (Codename)" bei den Quellen findet man einen Link der ETH / EPFL von vor 10 Jahren mit dem Prove of Concept. Das ist heute so ein "bisschen" weiter entwickelt.
+
+Das konnte ich umgehen mit dem Opensource Projekt PAM_USB, sprich MultiFactor Authentication ohne überteuerten bonzigen Yubi Key, sondern mit einem gewöhnlichen USB Stick. Dann können die zwar auf der Tastatur das Passwort mitlesen, sie können es dann auch eingeben wenn man grad z.B. einen Kaffe trinken geht, aber ist der Stick nicht eingesteckt, verhindert lib_pam (Plugable Authentication Module) das einloggen.
+
+Das war stand 2015, danach hat "irgendjemand" das Projekt sterben lassen und es funktionierte nicht mehr auf neueren Distributionen und es ist auch zu den meisten Linux Distributionen rausgeflogen wie z.B. aus Debian (Stretch, Buster, Bullseye). Ich hab dann auch gesehen, dass viele Leute das ge"forkt" haben und aber keiner es geschafft hat das PAM_USB wieder zum laufen zu kriegen. Bei mir wurde aber immer wenn ich den Source-Code reparieren wollte relativ viel Psychologische Kriegsführung aktiviert, z.B über Social-Media, über Vertreter Anrufe (diese Telefonzentralen für ".....blablabla möchten sie die Krankenkasse wechseln blablabla......" geben jeweils den CallCenter Mitarbeitern die Nummer der Zielperson automatisch vor, da kann der Mitarbeiter gar nichts dafür), oder irgend ein Nachbar der dann grad sofort hilfe am Computer braucht etc... ich hab's dann aber doch geschafft das wieder zum laufen zu kriegen und verwende das jetzt auf Debain Buster: https://github.com/braindef/pam_usb/
+
+Also die Garantie meines Acer Predators ist eh abgelaufen, dann ist es nicht Eure Schuld, aber ich finde es irgendwie Alternativlos.de Euch auf dem Laufenden zu halten, was hier im Aargau im Cyber grad so läuft.
+
+Falls Ihr/Sie jünger als 1978 seid ihr Berechtigt auf HackersCardgame.ch die Arbeit der letzten 40 Semester anzuschauen, da rendert Satan aber immer irgendwelche BlackHat ExitStrategien druaf, zur Zeit wird glaub die Sex-Sklavin-Karte hervorgehoben mit der m84 Karte und dann Scham oder die Kicherndes-Mädchen-Karte aktiviert. Aber das wechselt auch öfters mal. Neulich wars, dass die t1 Karte (prä-2020-Neuralink, THS...) abgestritten wird. Dafür gibt es keine schönere Formulierung als die eines echten Buddhisten den ich kenne: "Ein Rotes Objekt kann man in einem Roten Spiegel nicht sehen", übersetzt heisst das, dass wenn das Neuralink erkennt, dass es gard selber thematisiert wird dann damit anfängt sich selber abzustreiten mit:
+
+ArrayList<ausreden>
+- Weshalb sollte gerade ich sowas verpasst bekommen haben
+
+
+
+Mit freundlichen Grüssen
+
+Sincerely Euer Wirsing Autist, Whitehat, Whistleblower und CyberPunk
+
+Marc jr. Landolt
+eidg. dipl. Informatiker HF
+
 
 
 t1 karte abstreiten, rotoer spiegel, buddhismus
