@@ -6,14 +6,14 @@ Bitte unbedingt Empfangsbestätigung schicken, denn wenn ich Recht habe wird das
 
 Bitte erst nur den oberen Abschnitt lesen, und erst beim zweiten mal Lesen die Referenzen nachschauen.
 
-Seit ca 12 Stunden wird auf meine THS (bzw. meinem prä-2020-Neuralink) geloopt, dass weil das Logo meines Acer Predator Helios 300 [1] [2] [3] [4] [5] aussehe wie der Kopf eines Cyber-Man (Figur / Archetyp in der Serie Dr. Who [die neueren] die Sheldon so mag) wäre das der "Beweis", dass der der Acer Laptop versuche Menschen mit Behavioral "Sciences" über das THS / prä-2020-Neuralink / Medulla Spinalis Implantat zu Amokläufern [6] bzw. Attentätern abzurichten. Meiner Expertise nach ist diese Behauptung falsch und soll so nur Acer und Brack zum Sündenbock machen für etwas was ein Militärisches System versucht. Die Systeme haben verschieden Berechtigungsstufen, je weiter oben desto mehr Rechte und jeweils Zugriff auf die darunter liegenden Systeme
+Seit ca 12 Stunden wird auf meine THS (bzw. meinem prä-2020-Neuralink) geloopt, dass weil das Logo meines Acer Predator Helios 300 [1,2,3,4,5] aussehe wie der Kopf eines Cyber-Man (Figur / Archetyp in der Serie Dr. Who [die neueren] die Sheldon so mag) wäre das der "Beweis", dass der der Acer Laptop versuche Menschen mit Behavioral "Sciences" über das THS / prä-2020-Neuralink / Medulla Spinalis Implantat zu Amokläufern [6] bzw. Attentätern abzurichten. Meiner Expertise nach ist diese Behauptung falsch und soll so nur Acer und Brack zum Sündenbock machen für etwas was ein Militärisches System versucht. Die Systeme haben verschieden Berechtigungsstufen, je weiter oben desto mehr Rechte und jeweils Zugriff auf die darunter liegenden Systeme
 
 1. Military Grade
 2. Agency Grade
 3. Carrier Grade
 4. Consumer Grade
 
-Die Produkte von z.B. Acer sind somit schon auch irgendwie nicht ganz kosher, aber das eigentliche Problem ist weiter oben im System. Vieles kann man mit ein bisschen Geschick umgehen. z.B. sagt der Jüdische Informatik Professor und technischer Begleiter der Snowden Leaks Jacob Applebaum [14] "They repurpose your WiFi gear", das heisst, dass die meisten PCIe WiFi NetzwerkKarten so einen closed source Firmware BLOB (Binary Large OBject) haben und da das Ding am PCI Bus hängt, hat es dann mehr oder weniger Zugriff auf die halbe Hardware des Computers. Dies auch wenn kein Treiber geladen ist. Da kann man sein Betriebssystem duzende Male neu installieren dennoch ist der Computer nicht sicher. Was man aber mit vergleichsweise klienem Aufwand tun kann, ist einfach die WiFi Karte raus zu nehmen. Dann ist aber gemäss Jake das "Spiel" nicht fertig: "they want to be able to spy on you, and if they have 10 different options for spying on you that you know about, they have 13 ways of doing it and they do all 13", sprich kam da bei mir das Problem, dass scheinbar die Tastatur
+Die Produkte von z.B. Acer sind somit schon auch irgendwie nicht ganz kosher, aber das eigentliche Problem ist weiter oben im System. Vieles kann man mit ein bisschen Geschick umgehen. z.B. sagt der Jüdische Informatik Professor und technischer Begleiter der Snowden Leaks Jacob Applebaum [14] "They repurpose your WiFi gear", das heisst, dass die meisten PCIe WiFi NetzwerkKarten so einen closed source Firmware BLOB (Binary Large OBject) haben und da das Ding am PCI Bus hängt, hat es dann mehr oder weniger Zugriff auf die halbe Hardware des Computers. Dies auch wenn kein Treiber geladen ist. Da kann man sein Betriebssystem duzende Male neu installieren dennoch ist der Computer nicht sicher. Was man aber mit vergleichsweise klienem Aufwand tun kann, ist einfach die WiFi Karte raus zu nehmen. Dann ist aber gemäss Jake das "Spiel" nicht fertig: "they want to be able to spy on you, and if they have 10 different options for spying on you that you know about, they have 13 ways of doing it and they do all 13", sprich kam da bei mir das Problem, dass scheinbar die Tastatur [15,16,17] über ein Remote Interface verfügt, das kann theoretisch etwas das am i²c-Bus hängt sein [18]
 
 brack reverese forward contacting
 pfisterer & urs
@@ -63,6 +63,12 @@ t1 karte abstreiten, rotoer spiegel, buddhismus
 [14] PFISTERER: DPIJ: Der DrecksJude ist ein Vergewaltiger Terrorist
   ich: ... meiner Meinung nach untergeschoben weil Jake verdammt geile Infos veröffentlicht hat in seinem grossartigen Talk "To Protect and Infect Part 2" am CCC Congress vor ein paar Jahren
 
+
+[15] DROGEN
+[16] Autistmus
+[17] psychologie skills
+
+[18]  jake quote
 
 in alu gepackt, dnenoch spinalis implantat fäuste an kopf ohne dass ihc autsitenhelm an hattte
 
