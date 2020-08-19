@@ -2,6 +2,7 @@
 
 Halli Hallo Brack Team
 Dieses Mail ist wichtig und sollte auch an die Geschäftsleitung weitergereicht werden.
+Bitte unbedingt Empfangsbestätigung schicken, denn wenn ich Recht habe wird das Mail garantiert abgefischt.
 
 Bitte erst nur den oberen Abschnitt lesen, und erst beim zweiten mal Lesen die Referenzen nachschauen.
 
@@ -12,7 +13,7 @@ Seit ca 12 Stunden wird auf meine THS (bzw. meinem prä-2020-Neuralink) geloopt,
 3. Carrier Grade
 4. Consumer Grade
 
-Die Produkte von z.B. Acer sind somit schon auch irgendwie nicht ganz kosher, aber das eigentliche Problem ist weiter oben im System. Vieles kann man mit ein bisschen Geschick umgehen. z.B. sagt der Jüdische Informatik Professor und technischer Begleiter der Snowden Leaks Jacob Applebaum [14] "They repurpose your WiFi gear", das heisst, dass die meisten PCIe WiFi NetzwerkKarten so einen closed source Firmware BLOB (Binary Large OBject) haben und da das Ding am PCI Bus hängt, hat es dann mehr oder weniger Zugriff auf die halbe Hardware des Computers. Dies auch wenn kein Treiber geladen ist
+Die Produkte von z.B. Acer sind somit schon auch irgendwie nicht ganz kosher, aber das eigentliche Problem ist weiter oben im System. Vieles kann man mit ein bisschen Geschick umgehen. z.B. sagt der Jüdische Informatik Professor und technischer Begleiter der Snowden Leaks Jacob Applebaum [14] "They repurpose your WiFi gear", das heisst, dass die meisten PCIe WiFi NetzwerkKarten so einen closed source Firmware BLOB (Binary Large OBject) haben und da das Ding am PCI Bus hängt, hat es dann mehr oder weniger Zugriff auf die halbe Hardware des Computers. Dies auch wenn kein Treiber geladen ist. Da kann man sein Betriebssystem duzende Male neu installieren dennoch ist der Computer nicht sicher. Was man aber mit vergleichsweise klienem Aufwand tun kann, ist einfach die WiFi Karte raus zu nehmen. Dann ist aber gemäss Jake das "Spiel" nicht fertig: "they want to be able to spy on you, and if they have 10 different options for spying on you that you know about, they have 13 ways of doing it and they do all 13", sprich kam da bei mir das Problem, dass scheinbar die Tastatur
 
 brack reverese forward contacting
 pfisterer & urs
