@@ -12,7 +12,7 @@ Seit ca 12 Stunden wird auf meine THS (bzw. meinem prä-2020-Neuralink) geloopt,
 3. Carrier Grade
 4. Consumer Grade
 
-Die Produkte von z.B. Acer sind somit schon auch irgendwie nicht ganz kosher, aber das eigentliche Problem ist weiter oben im System. Vieles kann man mit ein bisschen Geschick umgehen. z.B. sagt der Jüdische Informatik Professor und technischer Begleiter der Snowden Leaks Jacob Applebaum [14]
+Die Produkte von z.B. Acer sind somit schon auch irgendwie nicht ganz kosher, aber das eigentliche Problem ist weiter oben im System. Vieles kann man mit ein bisschen Geschick umgehen. z.B. sagt der Jüdische Informatik Professor und technischer Begleiter der Snowden Leaks Jacob Applebaum [14] "They repurpose your WiFi gear", das heisst, dass die meisten PCIe WiFi NetzwerkKarten so einen closed source Firmware BLOB (Binary Large OBject) haben und da das Ding am PCI Bus hängt, hat es dann mehr oder weniger Zugriff auf die halbe Hardware des Computers. Dies auch wenn kein Treiber geladen ist
 
 brack reverese forward contacting
 pfisterer & urs
