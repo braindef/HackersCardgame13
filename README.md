@@ -5,8 +5,8 @@ Normal Tarot lacks Technology, Method and Algorithm Cards. HackersCardgame are l
 
 see:
 http://hackerscardgame.ch
-https://0x8.ch/HackersCardgame12
-https://marclandolt.ch/HackersCardgame12
+https://0x8.ch/HackersCardgame13
+https://marclandolt.ch/HackersCardgame13
 
 
 Today this would be logged in NSA/CIA DataRetention and of course also in other BigData Systems and you would then be blackmailed with that murderer the rest of your live. If you though play remember always to also play the **Reversibility Card** so in case something goes wrong nobody dies, which technically would mean **that a medic is around the person you attack**.
