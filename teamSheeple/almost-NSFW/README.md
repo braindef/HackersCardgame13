@@ -15,4 +15,4 @@ Another problem could be that google intentionally shows such MLP content to "mo
 I'm not aware of a situation where the submissive part could be a problem. *MISTRESS: DeepPacketInjection: well you need to care that he or she does not run suicide or amok, m32 or worse for example if you would not know that your slave is autistic and that many autistic people suffer from isolation and therefore would not survive if you would break the promise to be true forever*
 
 
- 
+things like 47a.jpg: if at all, please only vegetarian stuff, otherwise you will maybe hate you the rest of your life for that and also really really dislike BBQ's... at least this sort we have here in switzerland with Cervelat (Sausage)
