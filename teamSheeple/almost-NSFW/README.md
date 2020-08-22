@@ -42,7 +42,7 @@ Autistic people tend to find bugs, as early as by the age of 6 years. In German 
 
 NT: Non auTistic
 
-Fehlersuche is intentionally or accidentionally search/find Bugs to report and fix them, often paired with outspoken thoughts like "STUPID Nts"
+Fehlersuche is intentionally or accidentionally search/find Bugs to report and fix them, often paired with outspoken thoughts like "STUPID NTs"
 
 This normally leads to the circumstance that the NTs begin with "Fehlersuche" too, in "quotes" because the NTs try to find Bugs in the Argumentation of the Autistic Person (autistic people are some sort of an enhanced PROLOG programming language). If the NTs fail with eg. logical things, they feel bad, especially if the autistic person is eg. 6 Years old and try to inject mistakes into the PROLOG code of the autistic pony to make the autistic pony "DO WHAT I SAY" (Clawfinger) because “you little pony are wrong and we older parents are right, hahaha”
 
