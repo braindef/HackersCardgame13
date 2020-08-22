@@ -44,16 +44,17 @@ NT: Non auTistic
 
 Fehlersuche is intentionally or accidentionally search/find Bugs to report and fix them, often paired with outspoken thoughts like "STUPID NTs"
 
-This normally leads to the circumstance that the NTs begin with "Fehlersuche" too, in "quotes" because the NTs try to find Bugs in the Argumentation of the Autistic Person (autistic people are some sort of an enhanced PROLOG programming language). If the NTs fail with eg. logical things, they feel bad, especially if the autistic person is eg. 6 Years old. So the NTs try to inject mistakes into the PROLOG code of the autistic pony to make the autistic pony "DO WHAT I SAY" (Clawfinger, development psychology song) because “you little pony are wrong and we older parents are right, hahaha”
+This normally leads to the circumstance that the NTs begin with "Fehlersuche" too, in "quotes" because the NTs try to find Bugs in the Argumentation of the Autistic Person (autistic people are some sort of an enhanced PROLOG programming language). If the NTs fail with eg. logical things, they feel bad, especially if the autistic person is eg. 6 Years old. So the NTs try to inject mistakes into the PROLOG code of the autistic pony to make the autistic pony "DO WHAT I SAY" (Clawfinger, development psychology song) because “you little pony are wrong and we older parents are right, hahaha” (parental narcisstic power abuse)
 
 Again German:
 "Negation von Qualität, Logik und Mathematik ist Selstbeschädigung"
 
 
 People tend to say:
-Male Ponies don't like PAIN, and in case of psychological pain this is maybe true. When Parents get angry because of enhanced PROLOG Function of Autistic People they often use violence against autistic ponies. Autistic People differ [1] between PAIN (that is consensual with equal aged) and VIOLENCE (that is non-consensual and mostly from the parental generation). Swiss law does not allow Pornography Content with "Gewalt" (de-de: Violence) but if it’s consensual pain it seems to be allowed.
+"Male Ponies don't like PAIN", and in case of psychological pain this is maybe true. When Parents get angry because of enhanced PROLOG Function of Autistic Pony they often use violence. Autistic People differ [1] between PAIN (that is consensual with equal aged) and VIOLENCE (that is non-consensual and comes often from the parental generation, math::generalisation to fear older people). Swiss law does not allow Pornography Content with "Gewalt" (de-de: Violence) but if it’s consensual pain it seems to be allowed.
 
-But back to the main topic: if one would look at MLPs as some sort of Carl Gustav Jung “Archetypes” each Pony would be an archetype, theoretically. But in my case i’m some sort of double MLP archetype. If i feel save i behave like Pinkie Pie, and if they use violence against me i tend to behave like Fluttershy. My Shrink diagnosed “Schizophrenia” but i think that this diagnosis is a Bug. 
+But back to the main topic:
+If one would look at MLPs as some sort of Carl Gustav Jung “Archetypes” each Pony would be an archetype, theoretically. But in my case i’m some sort of double MLP archetype. If i feel save i act like Pinkie Pie, and if they use violence against me i tend to be like Fluttershy. My Shrink diagnosed “Schizophrenia” but i think that this diagnosis is a Bug too. 
 
 Differential-Diagnose: Autism ↔ Schizophrenia
 
