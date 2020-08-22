@@ -40,7 +40,7 @@ in case of autistic persons that are gifted in Computer Science it's an addition
 Herleitung:
 Autistic people tend to find bugs, as early as by the age of 6 years. In German one would say Fehlersuche (autistic person) and the others do "Fehlersuche" (NT's)
 
-NT: Non AuTistic Person
+NT: Non auTistic
 
 Fehlersuche is intentionally or accidentionally search/find Bugs to report and fix them, often paired with outspoken thoughts like "STUPID Nts"
 
