@@ -60,3 +60,20 @@ Differential-Diagnose: Autism ↔ Schizophrenia
 
 [1] Prolog Details: I don’t look at a “red tree” and a “yellow tree” as of the same object with a different color attribute. In my worldview red and yellow trees are some thing completely different
 
+
+
+Addendum:
+"man sollte" allenfalls Therapie Handbücher zu Autismus überprüfen, ob da ein Hinweis auf die Abfolge von Ereignissen
+
+Autist -> Nölpferd (berechtigt) -> Isolation -> kontrasteffekt auf Deprivation mit erster/m Partner -> ewige Bindung / Treue -> Suizid bei Untreue (weil dieser Datenpunkt eine permanente Kognitive Dissonanz verursachen würde)
+
+Worst Case sind einige Therapie-Handbücher falsch oder gar vorsätztlich falsch, so dass das gleichaltrige mädchen beim "man müsse den autisten abrichten / zureiten" seinen gleichaltrigen Autisten (würfeli) in den Tod treibt. in diesem fall sollte das Buch auf den INDEX bzw. korrigiert werden, bzw. kann so rein theoretisch ein Buch auch eine Mordwaffe sein, auch in unbeschleunigtem Zustand.
+
+und wir sollten auch schauen, dass die kugeli und würfeli in Secret Rooms [2] nicht so vernichtet werden...
+
+
+[2] https://www.youtube.com/watch?v=0FGVBE2M8ts#t=5m10s
+
+drin ist
+
+
