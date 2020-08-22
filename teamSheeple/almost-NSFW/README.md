@@ -11,7 +11,7 @@ Use Cases:
 
 since it is likely that in childhood more base content is stored it would also be important to have a look at the sanitiy of such content. Even if it is not illegal someone should have a look that consensual content is being created and distributed. maybe you have noticed we did not take any pictures from google that shows "baby mlp's" because this would suggest maybe pedophilia. if you do a google image search "mlp porn" there is unfortunately quite a lot bad content.
 
-ge. "ABDL MLP" Content seems to be more baby fetish than diaper fetish. Diaper Fetish is in my opinion acceptable as long as it is consensual with one true equal aged partner, baby fetish is not.
+eg. "ABDL MLP" Content seems to be more baby fetish than diaper fetish. Diaper Fetish is in my opinion acceptable as long as it is consensual with one true equal aged partner, baby fetish is not.
 
 Another problem could be that google intentionally shows such MLP content to "motivate" the kids to consume porn, even when the kid just searched for a normal MLP image.
 
