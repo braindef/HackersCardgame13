@@ -25,7 +25,7 @@ things like 47a.jpg: if at all, please only vegetarian stuff, otherwise you will
 Sat 22 Aug 2020 08:54:51 PM CEST
 unknown: update:
 
-Sufficient to inject a "selektoren kombination" eg over us4877027 to the kids room, then one could steer the kid into the wrong direction, maybe we should mitigate that or at least create a database with concept knowledge that we can help the victims to find the way back.
+It would be sufficient to inject a "Selektoren Kombination" eg. over us4877027 or a interactive web banner in the kids room, then one could steer the kid into the wrong direction, maybe we should mitigate that or at least create a database with concept knowledge that we can help the victims to find the way back.
 
 wie z.B. der Ckaude das Wort "bondage" angefüttert hat ca 1999...
 
