@@ -55,6 +55,8 @@ Male Ponies don't like PAIN, and in case of psychological pain this is maybe tru
 
 But back to the main topic: if one would look at MLPs as some sort of Carl Gustav Jung “Archetypes” each Pony would be an archetype, theoretically. But in my case i’m some sort of double MLP archetype. If i feel save i behave like Pinkie Pie, and if they use violence against me i tend to behave like Fluttershy. My Shrink diagnosed “Schizophrenia” but i think that this diagnosis is a Bug. 
 
+And if you are in Fluttershy Mode then especially old women love to help the autistic person (See Münchhausner Stellvertreter Syndrom) that makes it more worse for autistic people, because eg. Mothers then would like to touche and hug you and if autistic people hate one thing especiall then it's being hugged by older people, or by people, except that ~equal aged girl and maybe one or two other people like sister, brother and real good friends... (unknown: and autistic people <- NO)
+
 Differential-Diagnose: Autism ↔ Schizophrenia
 
 
