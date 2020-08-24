@@ -8,3 +8,13 @@ This content documents my therapy against traumatic events in my childhood, it's
 
 the videos seem to have 0day exploits in it, so i better save that for disassembly purpose
 
+
+my best guess is, that they use sexual integrity to obfuscate things like t1, t41, t42, t43, t44 and t45 card...
+
+please respect my privacy, and if you are younger than i (and those few named older exceptions) it is completely ok if you click this content
+
+the plan of hansjürg&astrid / urs & martin is possibly the complete opposit
+
+
+
+
